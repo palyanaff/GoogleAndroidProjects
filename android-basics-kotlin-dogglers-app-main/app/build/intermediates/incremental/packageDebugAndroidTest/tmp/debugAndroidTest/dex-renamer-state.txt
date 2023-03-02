@@ -1,0 +1,7 @@
+#Sun Apr 17 23:47:58 MSK 2022
+base.1=C\:\\Users\\maxim\\AndroidStudioProjects\\android-basics-kotlin-dogglers-app-main\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\classes.dex
+path.1=classes.dex
+base.0=C\:\\Users\\maxim\\AndroidStudioProjects\\android-basics-kotlin-dogglers-app-main\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeExtDexDebugAndroidTest\\classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex
